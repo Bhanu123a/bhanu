@@ -1,0 +1,19 @@
+*{
+    font-family: 'Belanosima', sans-serif;
+    font-family: 'Inconsolata', monospace;
+    font-family: 'Roboto', sans-serif;
+    color: black;
+}
+.primarysector{
+    float: left;
+    margin-right: 20px;
+}
+.medicalsectorimg{
+    float: right;
+}
+.selfemployedimg{
+    float: left;
+}
+.employmentimg{
+    float: right;
+}
